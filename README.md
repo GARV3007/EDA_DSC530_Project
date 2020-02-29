@@ -7,7 +7,7 @@ There are many parameters and points attached to a Mutual Funds. Out of these I 
 *Keywords:* Exploratory Data Analysis, Data Science, Probability, Modeling, Estimation, Regression, Expense ratio, Morning star ratings, Fund Return, net asset.
 
 **Contents of Dataset:**
-The file contains 25,265 Mutual Funds and 2,353 ETFs with general aspects (as Total Net Assets, Management Company and size), portfolio indicators (as cash, stocks, bonds, and sectors), returns (as year-to-date, 2018-10) and financial ratios (as price/earnings, Treynor and Sharpe ratios, alpha, and beta). Looking into data it appears data was captured around Feb-2019.
+The file contains 25,265 Mutual Funds with general aspects (as Total Net Assets, Management Company and size), portfolio indicators (as cash, stocks, bonds, and sectors), returns (as year-to-date, 2018-10) and financial ratios (as price/earnings, Treynor and Sharpe ratios, alpha, and beta). Looking into data it appears data was captured around Feb-2019.
 Data has been scraped from the publicly available website https://finance.yahoo.com
 
 **Data Source:** https://www.kaggle.com/stefanoleone992/mutual-funds-and-etfs 
